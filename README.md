@@ -13,6 +13,7 @@ My main career goal is to become a Frontend or Software Developer, and possibly 
 ## I'm currently learning:
 * Bootstrap
 * Spring Boot
+* AI models and uses
 * Rust
 * Pixel-art
 
