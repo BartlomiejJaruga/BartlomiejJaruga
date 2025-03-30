@@ -1,5 +1,5 @@
 # About me
-I'm an Information Technology student specializing in Software Engineering.<br>
+I'm an Computer Science student specializing in Software Engineering.<br>
 I love programming in various languages especialy in `JavaScript`, `ReactJS`, `Python`, `Java`, `SQL` and `C/C++`.<br>
 My main career goal is to become a Frontend or Software Developer, and possibly even a Full-Stack Developer.
 
