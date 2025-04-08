@@ -15,7 +15,6 @@ My main career goal is to become a Frontend or Software Developer, and possibly 
 * Spring Boot
 * AI models and uses
 * Docker (containerization, Docker Hub)
-* Rust
 * Pixel-art
 
 <!--
