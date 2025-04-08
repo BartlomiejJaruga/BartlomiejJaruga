@@ -8,7 +8,7 @@ My main career goal is to become a Frontend or Software Developer, and possibly 
 ## I'm currenly working on:
 * Dietician+ ([frontend](https://github.com/BartlomiejJaruga/dietitian-plus-frontend) / [backend](https://github.com/BartlomiejJaruga/dietitian-plus-backend))
 * AIComposer - project about generating music with AI using LSTM model and sending generated file to user via website (no repository at this very moment, project still in Requirements Analysis)
-* [Internet Shop](https://github.com/BartlomiejJaruga/internet-shop)
+* Internet Shop ([frontend](https://github.com/BartlomiejJaruga/internet-shop-frontend) / [backend](https://github.com/BartlomiejJaruga/internet-shop-backend))
 
 ## I'm currently learning:
 * Bootstrap
