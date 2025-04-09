@@ -9,6 +9,7 @@ My main career goal is to become a Frontend or Software Developer, and possibly 
 * Dietician+ ([frontend](https://github.com/BartlomiejJaruga/dietitian-plus-frontend) / [backend](https://github.com/BartlomiejJaruga/dietitian-plus-backend))
 * AIComposer - project about generating music with AI using LSTM model and sending generated file to user via website (no repository at this very moment, project still in Requirements Analysis)
 * Internet Shop ([frontend](https://github.com/BartlomiejJaruga/internet-shop-frontend) / [backend](https://github.com/BartlomiejJaruga/internet-shop-backend))
+* Blood Call - 2D bullet hell game set in a grim dark fantasy realm, developed using the Godot engine. Players are young wizards thrust into relentless action and punishing gameplay, where every encounter tests their reflexes and endurance.
 
 ## I'm currently learning:
 * Bootstrap
